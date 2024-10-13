@@ -57,8 +57,8 @@ To contribute:
 
 Please ensure that your code adheres to the project's coding standards and passes all tests.
 
-## License:
-This project is licensed under the MIT License - see the **LICENSE** file for details.
+## License
+This project is licensed under the MIT License - see the *LICENSE* file for details.
 
-## Contact:
+## Contact
 For any issues, questions, or suggestions, feel free to open an issue or reach out at contact@orchidscareer.com.
