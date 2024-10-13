@@ -44,15 +44,21 @@ To set up the Orchids Career platform locally:
 To contribute:
 
 1. Fork the repository.
-2. Create a new branch (git checkout -b feature-branch).
-3. Commit your changes (git commit -m 'Add new feature').
-4. Push the branch (git push origin feature-branch).
+2. Create a new branch 
+   ```bash
+   git checkout -b feature-branch
+3. Commit your changes 
+   ```bash
+   git commit -m 'Add new feature'
+4. Push the branch 
+   ```bash
+   git push origin feature-branch
 5. Open a pull request.
 
 Please ensure that your code adheres to the project's coding standards and passes all tests.
 
 *License:*
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the ***LICENSE*** file for details.
 
 *Contact:*
 For any issues, questions, or suggestions, feel free to open an issue or reach out at contact@orchidscareer.com.
