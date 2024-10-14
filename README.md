@@ -1,6 +1,7 @@
 ## OrchidsCareer
 
 *OrchidsCareer: A Career Guidance Platform*
+
 ## Description
 
 Welcome to *Orchids Career*, a platform designed to nurture and guide individuals through their unique professional journeys. Much like the orchid, which blossoms beautifully over time, we believe that a career should be cultivated with care, allowing each person’s distinct talents to stand out and reach their full potential.
