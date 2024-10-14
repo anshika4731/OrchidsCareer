@@ -16,7 +16,6 @@ Whether you are just starting your career or looking for ways to grow and refine
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
